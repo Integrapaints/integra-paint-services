@@ -1,36 +1,48 @@
 # Integra Paint 🎨
 
-Welcome to the official GitHub repository for **Integra Paint**, your trusted painting professionals on the Gold Coast. We are dedicated to delivering high-quality finishes that stand up to the unique coastal climate.  
+Welcome to the official GitHub repository for **Integra Paint**, your trusted painting professionals on the Gold Coast. We deliver high-quality finishes that last, whether for your home, office, or commercial property.  
 
 📍 Find us on Google: [Integra Paint - GMB Profile](https://www.google.com/maps/place/Integra+Paint/)  
+📧 Email: [info@integrapaint.com.au](mailto:info@integrapaint.com.au)  
+📞 Call Us: [0434 123 456](tel:0434123456)  
 
 ---
 
 ## Our Services  
 
 ### 🏠 [Interior Painting](https://www.integrapaint.com.au/interior-painting)  
-Refresh and brighten your indoor spaces with premium paints and finishes. We specialize in smooth, durable coatings for walls, ceilings, and trims, tailored to your style.  
+Brighten your home with smooth, durable wall, ceiling, and trim finishes tailored to your style.  
 
 ### 🏡 [Exterior Painting](https://www.integrapaint.com.au/exterior-painting)  
-Protect your property against the harsh Gold Coast weather with long-lasting exterior painting. We use weather-resistant coatings designed to enhance curb appeal.  
+Weather-resistant coatings that protect your property from Gold Coast’s climate while enhancing curb appeal.  
 
 ### 🏘️ [Roof Painting](https://www.integrapaint.com.au/roof-painting)  
-Extend the life of your roof with our expert roof painting services. Our team uses protective coatings that add both durability and style to your property.  
+Protect and rejuvenate your roof with long-lasting coatings that add durability and a fresh look.  
 
 ### 🏢 [Commercial Painting Services](https://www.integrapaint.com.au/commercial)  
-We deliver professional painting solutions for offices, retail spaces, and large commercial properties. Our focus is minimal disruption and maximum impact.  
+Minimal disruption, maximum impact. We paint offices, retail stores, and large commercial properties with professional results.  
 
 ### 🪵 [Fence & Deck Painting](https://www.integrapaint.com.au/deck-fence-painting)  
-Protect and beautify outdoor living areas with durable stains and finishes. We help preserve wood surfaces against sun, rain, and wear.  
+Durable stains and finishes that protect outdoor living areas from sun, rain, and wear.  
 
 ### 🎨 [Feature Wall Painting](https://www.integrapaint.com.au/feature-wall-painting)  
-Add personality to your home with bold colours and textured finishes. Our feature wall services create eye-catching designs that elevate your interiors.  
+Bold colours and textured finishes to create eye-catching statement walls in your interiors.  
 
 ### 🪟 [Aluminium Windows & Doors Painting](https://www.integrapaint.com.au/aluminium-painting)  
-Give your aluminium doors and windows a new life with modern coatings. Improve aesthetics while adding an extra layer of protection.  
+Restore aluminium frames with modern coatings that improve both aesthetics and protection.  
 
 ### 🏊 [Pool Painting Services](https://www.integrapaint.com.au/pool-painting)  
-We specialize in resurfacing and painting pools with durable, water-resistant finishes that keep them looking pristine season after season.  
+Durable water-resistant finishes that keep your pool looking pristine season after season.  
+
+---
+
+## 📝 Blog Articles  
+
+- [House Painters Near Me – Finding the Right Professionals](https://integrapaints.blogspot.com/2025/09/house-painters-near-me-finding-right.html)  
+  A complete guide on choosing the right house painters, with tips to ensure you get the best results for your home.  
+
+- [Transform Your Home with Expert Painting Services](https://ameblo.jp/integrapaint/entry-12930845804.html)  
+  Learn how professional painting can refresh, protect, and increase the value of your property.  
 
 ---
 
@@ -58,11 +70,13 @@ Stay connected with Integra Paint across different platforms:
 ---
 
 ## ⭐ Why Choose Integra Paint?  
-- 10+ years of industry experience  
+- 10+ years of experience  
 - Professional, reliable painters  
-- Long-lasting finishes for Gold Coast homes and businesses  
-- Transparent pricing and free quotes  
+- Weather-resistant finishes for the Gold Coast climate  
+- Transparent pricing & free quotes  
 
-📞 Visit us at: [www.integrapaint.com.au](https://www.integrapaint.com.au/)  
+📞 Call us today: [0434 123 456](tel:0434123456)  
+📧 Email: [info@integrapaint.com.au](mailto:info@integrapaint.com.au)  
+🌐 Website: [www.integrapaint.com.au](https://www.integrapaint.com.au/)  
 
 ---
